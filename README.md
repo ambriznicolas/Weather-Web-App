@@ -1,6 +1,6 @@
 ## Weather web app
 
-Hello everyone this is a weather application that lets the user enter the city name and will display the weather for that specific city as well as a background picture the city with the current time of day such as night or day
+Hello everyone this is a weather application that lets the user enter the city name and will display the weather for that specific city as well as a background picture of the city with the current time of day such as night or day
 
 ![s20042112092024](/img/Weather-Web-App_pic.png)
 
